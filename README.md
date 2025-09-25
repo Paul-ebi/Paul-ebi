@@ -69,7 +69,7 @@ I’m actively pursuing **academic research** and PhD opportunities in:
 ## 📫 How to Reach Me
 - 📧 Email: **paul.ifidi001@gmail.com**  
 - 💬 WhatsApp / Call: **+234 906 647 2850**  
-- 🔗 LinkedIn: [Paul Ebikina Ifidi](https://www.linkedin.com/in/paul-ebikina-ifidi-130597101/)  
+- 🔗 LinkedIn: [Paul Ebikina Ifidi](https://www.linkedin.com/in/paul-ifidi-msc-comp-engr-iaeng-130597101)
 - 🌍 GitHub: [github.com/Paul-ebi](https://github.com/Paul-ebi)  
 
 ---
